@@ -1,3 +1,3 @@
 # Maceta-IoT
 Maceta IoT para el cuidado de plantas de tipo arbustos hogareñas.
-ALV WEON
+Proyecto correspondiente a l trabajo practico final de la Diplomatura en Robótica de la Universidad nacional de La Rioja.
